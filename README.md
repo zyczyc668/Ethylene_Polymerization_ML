@@ -4,7 +4,7 @@ The workflow consists of three main modules:
 
 1. Quantum Chemical Calculations (DFT and xTB)
 2. Descriptor Extraction (electronic, steric, geometric, RDKit, and ACSF)
-3. Machine Learning Modeling (classification and regression)
+3. Machine Learning Modeling
 
 ---
 
